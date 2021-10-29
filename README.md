@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ARHAM5416
 - 👀 I’m interested in WEB & MOBILE APP DEVELOPMENT
 - 🌱 I’m currently working on ReactJs, AngularJs & NodeJs
-- 💞️ I’m looking to collaborate on WEB DESIGNING 
+- 💞️ I’m looking to collaborate on WEB DESIGNING & DEVELOPMENT
 - 📫 How to reach me -- md.arhamkhan09@gmail.com
 
 <!---
