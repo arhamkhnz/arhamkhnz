@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Mohammed Arham Khan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&height=100&lines=Buy+me+a+Coffee..." alt="Typing SVG" /></a>
+<a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&height=100&lines=Buy+me+a+Coffee..." alt="Typing SVG" /></a>
 </p>
 	
 ## **About me**
