@@ -1,14 +1,10 @@
 <h1 align="center"><b>Hi , I'm Mohammed Arham Khan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<p align="center">
-<a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&height=100&lines=Buy+me+a+Coffee..." alt="Typing SVG" /></a>
-</p>
 	
 ## **About me**
 
 <br>
 
-Full Stack Developer with several years of experience in both Frontend and Backend Development
+I'm India based Full Stack Developer focused on crafting clean & user‑friendly experiences, I am passionate about building excellent software that improves the lives of those around me.
 
 <br>
 
@@ -74,30 +70,6 @@ Full Stack Developer with several years of experience in both Frontend and Backe
 
 <br>
 
------
-
-<br>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
-<a>
-<a href="https://git.io/streak-stats"><img width="500" src="https://streak-stats.demolab.com?user=arham5416"/></a><br>
-  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=arham5416&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
-
-</a>
-</div>
-
-<br>
-<br>
-<br>
-
------
-
-<br>
 <br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
@@ -112,11 +84,22 @@ Full Stack Developer with several years of experience in both Frontend and Backe
 </a>
 </li>
 
-<br>
-
 <li>
 <a href="mailto:md.arhamkhan09@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</li>
+	
+<li>
+<a href="https://wa.me/916264053892" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+</li>
+	
+	
+<li>
+<a href="https://join.skype.com/invite/YmObd80aiHfF" target="_blank">
+<img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" />
 </a>
 </li>
 	
