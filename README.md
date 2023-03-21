@@ -11,7 +11,7 @@ I'm India based Full Stack Developer focused on crafting clean & user‑friendly
 <h3 align="center">Lets Build Something Unique <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 <p align="center">
-  <a href="https://github.com/arhamkhnz"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/arhamkhnz?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  
 	
 	
 <a href="https://www.linkedin.com/in/mohammed-arham-khan/" target="_blank">
