@@ -25,7 +25,7 @@ I'm Arham, a Fullstack Developer from **India**.
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-- **Total Lines of Code:** 0
+- **Total Lines of Code:** 0 <!-- lines-of-code -->
 
 ### Open Source Projects
 
