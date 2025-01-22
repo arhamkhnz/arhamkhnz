@@ -1,0 +1,53 @@
+name: Update Lines of Code in README
+
+on:
+  schedule:
+    - cron: "0 0 * * 0" # Runs weekly
+  workflow_dispatch: 
+
+jobs:
+  count-lines:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v3
+
+    - name: Install Dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y jq cloc
+
+    - name: Fetch Public Repositories
+      run: |
+        USERNAME="arhamkhnz"
+        REPOS=$(curl -s "https://api.github.com/users/$USERNAME/repos?per_page=100&visibility=public" | jq -r '.[].clone_url')
+
+        mkdir -p public-repos
+        cd public-repos
+
+        for REPO in $REPOS; do
+          echo "Cloning $REPO..."
+          git clone "$REPO"
+        done
+
+        echo "Calculating total lines of code..."
+        TOTAL_LINES=$(cloc . --json | jq '.SUM.code')
+        echo "Total Lines of Code: $TOTAL_LINES"
+
+        # Save result to a temporary file
+        echo $TOTAL_LINES > ../lines_of_code.txt
+
+    - name: Update README.md
+      run: |
+        cd ..
+        TOTAL_LINES=$(cat lines_of_code.txt)
+        sed -i "/<!-- lines-of-code -->/c\Total Lines of Code: $TOTAL_LINES <!-- lines-of-code -->" README.md
+
+    - name: Commit Changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add README.md
+        git commit -m "Update total lines of code"
+        git push
