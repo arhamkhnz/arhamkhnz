@@ -3,7 +3,7 @@ name: Update Lines of Code in README
 on:
   schedule:
     - cron: "0 0 * * 0" # Runs weekly
-  workflow_dispatch:
+  workflow_dispatch: # Allows manual trigger
 
 jobs:
   count-lines:
@@ -27,10 +27,12 @@ jobs:
 
         mkdir -p public-repos
         cd public-repos
-
+        
         for REPO in $REPOS; do
-          echo "Cloning $REPO..."
-          git clone "$REPO"
+          # Replace the URL to include the token for authentication
+          AUTHENTICATED_REPO=$(echo "$REPO" | sed "s/https:\/\//https:\/\/$GH_PAT@/g")
+          echo "Cloning $AUTHENTICATED_REPO..."
+          git clone "$AUTHENTICATED_REPO"
         done
 
         echo "Calculating total lines of code..."
@@ -39,7 +41,7 @@ jobs:
 
     - name: Update README.md
       run: |
-        # Extract the total lines from cloc-output.json
+        # Extract the total lines of code from cloc-output.json
         TOTAL_LINES=$(jq '.SUM.code' output/cloc-output.json)
         
         # Replace the placeholder in README.md
@@ -47,7 +49,7 @@ jobs:
 
     - name: Stage All Changes
       run: |
-        git add -A # Stages all changes, including untracked files
+        git add README.md output/cloc-output.json # Stages updated files
 
     - name: Commit and Push Changes
       run: |
