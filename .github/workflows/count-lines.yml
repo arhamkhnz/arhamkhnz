@@ -23,7 +23,8 @@ jobs:
         GH_PAT: ${{ secrets.GH_PAT }}
       run: |
         USERNAME="arhamkhnz"
-        REPOS=$(curl -H "Authorization: token $GH_PAT" -s "https://api.github.com/user/repos?per_page=100" | jq -r '.[].clone_url')
+        REPOS=$(curl -H "Authorization: token $GH_PAT" -s "https://api.github.com/user/repos?per_page=100" \
+          | jq -r 'map(select(.fork == false)) | .[].clone_url')
 
         mkdir -p public-repos
         cd public-repos
