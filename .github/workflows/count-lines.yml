@@ -18,10 +18,12 @@ jobs:
         sudo apt-get update
         sudo apt-get install -y jq cloc
 
-    - name: Fetch and Clone Public Repositories
+    - name: Fetch and Clone Repositories
+      env:
+        GH_PAT: ${{ secrets.GH_PAT }}
       run: |
         USERNAME="arhamkhnz"
-        REPOS=$(curl -s "https://api.github.com/users/$USERNAME/repos?per_page=100&visibility=public" | jq -r '.[].clone_url')
+        REPOS=$(curl -H "Authorization: token $GH_PAT" -s "https://api.github.com/user/repos?per_page=100" | jq -r '.[].clone_url')
 
         mkdir -p public-repos
         cd public-repos
