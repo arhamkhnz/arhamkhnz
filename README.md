@@ -1,6 +1,6 @@
 # Hey, glad you're here! ✨
 
-I'm Arham, a Fullstack Developer from **India**.
+I'm Arham, a Fullstack Developer.
 
 ## Tech I Use
 
