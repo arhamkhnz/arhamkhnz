@@ -33,15 +33,17 @@ jobs:
 
         echo "Calculating total lines of code..."
         TOTAL_LINES=$(cloc . --json | jq '.SUM.code')
-        echo "Total Lines of Code: $TOTAL_LINES"
-
-        # Save result to a temporary file
-        echo $TOTAL_LINES > ../lines_of_code.txt
+        
+        # Save the result in an output folder
+        mkdir -p ../output
+        echo "{ \"total_lines\": $TOTAL_LINES }" > ../output/lines.json
 
     - name: Update README.md
       run: |
-        cd ..
-        TOTAL_LINES=$(cat lines_of_code.txt)
+        # Read the total lines of code from the JSON file
+        TOTAL_LINES=$(jq '.total_lines' output/lines.json)
+        
+        # Replace the placeholder in README.md
         sed -i "/<!-- lines-of-code -->/c\Total Lines of Code: $TOTAL_LINES <!-- lines-of-code -->" README.md
 
     - name: Commit Changes
