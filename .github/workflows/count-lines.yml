@@ -3,7 +3,7 @@ name: Update Lines of Code in README
 on:
   schedule:
     - cron: "0 0 * * 0" # Runs weekly
-  workflow_dispatch: 
+  workflow_dispatch:
 
 jobs:
   count-lines:
@@ -18,7 +18,7 @@ jobs:
         sudo apt-get update
         sudo apt-get install -y jq cloc
 
-    - name: Fetch Public Repositories
+    - name: Fetch and Clone Public Repositories
       run: |
         USERNAME="arhamkhnz"
         REPOS=$(curl -s "https://api.github.com/users/$USERNAME/repos?per_page=100&visibility=public" | jq -r '.[].clone_url')
@@ -32,16 +32,13 @@ jobs:
         done
 
         echo "Calculating total lines of code..."
-        TOTAL_LINES=$(cloc . --json | jq '.SUM.code')
-        
-        # Save the result in an output folder
         mkdir -p ../output
-        echo "{ \"total_lines\": $TOTAL_LINES }" > ../output/lines.json
+        cloc . --json > ../output/cloc-output.json
 
     - name: Update README.md
       run: |
-        # Read the total lines of code from the JSON file
-        TOTAL_LINES=$(jq '.total_lines' output/lines.json)
+        # Extract the total lines from cloc-output.json
+        TOTAL_LINES=$(jq '.SUM.code' output/cloc-output.json)
         
         # Replace the placeholder in README.md
         sed -i "/<!-- lines-of-code -->/c\Total Lines of Code: $TOTAL_LINES <!-- lines-of-code -->" README.md
