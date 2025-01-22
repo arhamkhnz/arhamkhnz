@@ -25,7 +25,7 @@ I'm Arham, a Fullstack Developer.
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-Total Number of Lines: 0 <!-- TOTAL_LINES_PLACEHOLDER -->
+Total Number of Lines: 813400 <!-- TOTAL_LINES_PLACEHOLDER -->
 
 ### Open Source Projects
 
