@@ -32,8 +32,9 @@ jobs:
         for REPO in $REPOS; do
           # Replace the URL to include the token for authentication
           AUTHENTICATED_REPO=$(echo "$REPO" | sed "s/https:\/\//https:\/\/$GH_PAT@/g")
-          echo "Cloning $AUTHENTICATED_REPO..."
-          git clone "$AUTHENTICATED_REPO"
+  
+          # Quietly clone repositories
+          git clone "$AUTHENTICATED_REPO" > /dev/null 2>&1
         done
 
         echo "Calculating total lines of code..."
