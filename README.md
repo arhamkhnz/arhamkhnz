@@ -27,15 +27,15 @@ I'm Arham, a Fullstack Developer.
 
 Languages Breakdown:
 -------------------
-🚀 JavaScript   : 88957 lines  
-🌀 TypeScript   : 77745 lines  
-📦 JSX          : 20247 lines  
-🌱 Vue.js       : 13154 lines  
-🐘 PHP          : 5248 lines  
-💻 C#           : 15066 lines  
-🔍 Other        : 138475 lines  
+🚀 JavaScript   : <!-- JS_LINES_PLACEHOLDER --> lines  
+🌀 TypeScript   : <!-- TS_LINES_PLACEHOLDER --> lines  
+📦 JSX          : <!-- JSX_LINES_PLACEHOLDER --> lines  
+🌱 Vue.js       : <!-- VUE_LINES_PLACEHOLDER --> lines  
+🐘 PHP          : <!-- PHP_LINES_PLACEHOLDER --> lines  
+💻 C#           : <!-- CSHARP_LINES_PLACEHOLDER --> lines  
+🔍 Other        : <!-- OTHER_LINES_PLACEHOLDER --> lines  
 
-🎯 **Total Lines of Code: 325491**
+🎯 **Total Lines of Code: <!-- TOTAL_LINES_PLACEHOLDER -->**
 
 ### Open Source Projects
 
