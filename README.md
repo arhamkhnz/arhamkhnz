@@ -27,13 +27,13 @@ I'm Arham, a Fullstack Developer.
 
 Languages Breakdown:
 -------------------
-🚀 JavaScript   : <!-- JS_LINES_PLACEHOLDER --> lines  
-🌀 TypeScript   : <!-- TS_LINES_PLACEHOLDER --> lines  
-🐘 PHP          : <!-- PHP_LINES_PLACEHOLDER --> lines  
-💻 C#           : <!-- CSHARP_LINES_PLACEHOLDER --> lines  
-🔍 Other        : <!-- OTHER_LINES_PLACEHOLDER --> lines  
+🚀 JavaScript   : 88957 lines  
+🌀 TypeScript   : 77745 lines  
+🐘 PHP          : 5248 lines  
+💻 C#           : null lines  
+🔍 Other        : 153535 lines  
 
-🎯 **Total Lines of Code: <!-- TOTAL_LINES_PLACEHOLDER -->**
+🎯 **Total Lines of Code: 325485**
 
 ### Open Source Projects
 
