@@ -40,23 +40,23 @@ TechStack
    └─ Shell
 ```
 
-Languages Breakdown:
--------------------
-🚀 JavaScript   : <!-- JS_LINES_PLACEHOLDER --> 88957 lines  
-🌀 TypeScript   : <!-- TS_LINES_PLACEHOLDER --> 77745 lines  
-📦 JSX          : <!-- JSX_LINES_PLACEHOLDER --> 20247 lines  
-🌱 Vue.js       : <!-- VUE_LINES_PLACEHOLDER --> 13154 lines  
-🐘 PHP          : <!-- PHP_LINES_PLACEHOLDER --> 5248 lines  
-💻 C#           : <!-- CSHARP_LINES_PLACEHOLDER --> 15066 lines  
-🔍 Other        : <!-- OTHER_LINES_PLACEHOLDER --> 36884 lines  
+### My Github Code Stats
+> Total lines of code across all my GitHub repositories. Updates weekly.
 
-🎯 **Total Lines of Code: <!-- TOTAL_LINES_PLACEHOLDER --> 223900 lines  
+<!-- LANGUAGES BREAKDOWN START -->
+```
+[ LANGUAGES BREAKDOWN ]
+JavaScript   --> 88,957 lines  
+TypeScript   --> 77,745 lines  
+JSX          --> 20,247 lines  
+Vue.js       --> 13,154 lines  
+PHP          -->  5,248 lines  
+C#           --> 15,066 lines  
+Other        --> 36,884 lines  
 
-### Open Source Projects
-
-- **[Next Shadcn Admin Dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard)**  
-Admin Dashboard built with Next.js 14 + TypeScript + Shadcn UI  
-![GitHub Repo stars](https://img.shields.io/github/stars/arhamkhnz/next-shadcn-admin-dashboard?color=FFD700&label=⭐&style=flat)
+[ TOTAL LINES OF CODE: 223,900 ]
+```
+<!-- LANGUAGES BREAKDOWN END -->
 
 ### Find Me On !
 
