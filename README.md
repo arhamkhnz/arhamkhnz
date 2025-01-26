@@ -1,6 +1,7 @@
-# Hey, glad you're here! ✨
+# Hi, I'm Arham 👋
 
-I'm Arham, a Fullstack Developer.
+> Full Stack Developer.  
+> Not just another coder—I’m all about the creative side of tech, a fan of minimalism and brutalism, building systems, UIs, and websites that just stand out.
 
 ## Tech I Use
 
