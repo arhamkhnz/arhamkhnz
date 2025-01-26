@@ -7,7 +7,7 @@
 
 ```mermaid
 %%{ init: { "look": "handDrawn", "themeVariables": { "fontFamily": "Comic Sans MS" } } }%%
-graph TD
+graph LR
     A[TechStack]:::title
 
     %% Languages
@@ -43,9 +43,7 @@ graph TD
     class E1,E2 mobileFramework;
 
     %% .NET under C#
-    B3 --> F[.NET]
-    classDef dotnetFramework fill:#512BD4,stroke:#333,stroke-width:2px,color:#FFF;
-    class F dotnetFramework;
+    B3 --> F[.NET]:::dotnet
 
     %% Cloud Platforms
     A --> G[Cloud Platforms]:::cloud
@@ -78,6 +76,7 @@ graph TD
     classDef php fill:#87CEEB,stroke:#000,stroke-width:2px,color:#000;
     classDef c# fill:#87CEEB,stroke:#000,stroke-width:2px,color:#000;
     classDef cloud-platform fill:#1E90FF,stroke:#000,stroke-width:2px,color:#FFF;     
+    classDef dotnet fill:#512BD4,stroke:#333,stroke-width:2px,color:#FFF;
 ```
 
 Languages Breakdown:
