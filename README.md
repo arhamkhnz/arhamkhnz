@@ -43,20 +43,202 @@ TechStack
 ### My Github Code Stats
 > Total lines of code across all my GitHub repositories. Updates weekly.
 
-<!-- LANGUAGES BREAKDOWN START -->
+
 ```
 [ LANGUAGES BREAKDOWN ]
-JavaScript   --> 88,957 lines  
-TypeScript   --> 77,745 lines  
-JSX          --> 20,247 lines  
-Vue.js       --> 13,154 lines  
-PHP          -->  5,248 lines  
-C#           --> 15,066 lines  
-Other        --> 36,884 lines  
+JavaScript   --> 88957 lines
+TypeScript   --> 77745 lines
+JSX          --> 20247 lines
+Vue.js       --> 13154 lines
+PHP          --> 5248 lines
+C#           --> 15066 lines
+Other        --> 3507 lines
 
-[ TOTAL LINES OF CODE: 223,900 ]
+[ TOTAL LINES OF CODE: 223924 ]
 ```
-<!-- LANGUAGES BREAKDOWN END -->
+
+
+```
+[ LANGUAGES BREAKDOWN ]
+JavaScript   --> 88957 lines
+TypeScript   --> 77745 lines
+JSX          --> 20247 lines
+Vue.js       --> 13154 lines
+PHP          --> 5248 lines
+C#           --> 15066 lines
+Other        --> 3507 lines
+
+[ TOTAL LINES OF CODE: 223924 ]
+```
+
+
+```
+[ LANGUAGES BREAKDOWN ]
+JavaScript   --> 88957 lines
+TypeScript   --> 77745 lines
+JSX          --> 20247 lines
+Vue.js       --> 13154 lines
+PHP          --> 5248 lines
+C#           --> 15066 lines
+Other        --> 3507 lines
+
+[ TOTAL LINES OF CODE: 223924 ]
+```
+
+
+```
+[ LANGUAGES BREAKDOWN ]
+JavaScript   --> 88957 lines
+TypeScript   --> 77745 lines
+JSX          --> 20247 lines
+Vue.js       --> 13154 lines
+PHP          --> 5248 lines
+C#           --> 15066 lines
+Other        --> 3507 lines
+
+[ TOTAL LINES OF CODE: 223924 ]
+```
+
+
+```
+[ LANGUAGES BREAKDOWN ]
+JavaScript   --> 88957 lines
+TypeScript   --> 77745 lines
+JSX          --> 20247 lines
+Vue.js       --> 13154 lines
+PHP          --> 5248 lines
+C#           --> 15066 lines
+Other        --> 3507 lines
+
+[ TOTAL LINES OF CODE: 223924 ]
+```
+
+
+```
+[ LANGUAGES BREAKDOWN ]
+JavaScript   --> 88957 lines
+TypeScript   --> 77745 lines
+JSX          --> 20247 lines
+Vue.js       --> 13154 lines
+PHP          --> 5248 lines
+C#           --> 15066 lines
+Other        --> 3507 lines
+
+[ TOTAL LINES OF CODE: 223924 ]
+```
+
+
+```
+[ LANGUAGES BREAKDOWN ]
+JavaScript   --> 88957 lines
+TypeScript   --> 77745 lines
+JSX          --> 20247 lines
+Vue.js       --> 13154 lines
+PHP          --> 5248 lines
+C#           --> 15066 lines
+Other        --> 3507 lines
+
+[ TOTAL LINES OF CODE: 223924 ]
+```
+
+
+```
+[ LANGUAGES BREAKDOWN ]
+JavaScript   --> 88957 lines
+TypeScript   --> 77745 lines
+JSX          --> 20247 lines
+Vue.js       --> 13154 lines
+PHP          --> 5248 lines
+C#           --> 15066 lines
+Other        --> 3507 lines
+
+[ TOTAL LINES OF CODE: 223924 ]
+```
+
+
+```
+[ LANGUAGES BREAKDOWN ]
+JavaScript   --> 88957 lines
+TypeScript   --> 77745 lines
+JSX          --> 20247 lines
+Vue.js       --> 13154 lines
+PHP          --> 5248 lines
+C#           --> 15066 lines
+Other        --> 3507 lines
+
+[ TOTAL LINES OF CODE: 223924 ]
+```
+
+
+```
+[ LANGUAGES BREAKDOWN ]
+JavaScript   --> 88957 lines
+TypeScript   --> 77745 lines
+JSX          --> 20247 lines
+Vue.js       --> 13154 lines
+PHP          --> 5248 lines
+C#           --> 15066 lines
+Other        --> 3507 lines
+
+[ TOTAL LINES OF CODE: 223924 ]
+```
+
+
+```
+[ LANGUAGES BREAKDOWN ]
+JavaScript   --> 88957 lines
+TypeScript   --> 77745 lines
+JSX          --> 20247 lines
+Vue.js       --> 13154 lines
+PHP          --> 5248 lines
+C#           --> 15066 lines
+Other        --> 3507 lines
+
+[ TOTAL LINES OF CODE: 223924 ]
+```
+
+
+```
+[ LANGUAGES BREAKDOWN ]
+JavaScript   --> 88957 lines
+TypeScript   --> 77745 lines
+JSX          --> 20247 lines
+Vue.js       --> 13154 lines
+PHP          --> 5248 lines
+C#           --> 15066 lines
+Other        --> 3507 lines
+
+[ TOTAL LINES OF CODE: 223924 ]
+```
+
+
+```
+[ LANGUAGES BREAKDOWN ]
+JavaScript   --> 88957 lines
+TypeScript   --> 77745 lines
+JSX          --> 20247 lines
+Vue.js       --> 13154 lines
+PHP          --> 5248 lines
+C#           --> 15066 lines
+Other        --> 3507 lines
+
+[ TOTAL LINES OF CODE: 223924 ]
+```
+
+
+```
+[ LANGUAGES BREAKDOWN ]
+JavaScript   --> 88957 lines
+TypeScript   --> 77745 lines
+JSX          --> 20247 lines
+Vue.js       --> 13154 lines
+PHP          --> 5248 lines
+C#           --> 15066 lines
+Other        --> 3507 lines
+
+[ TOTAL LINES OF CODE: 223924 ]
+```
+
 
 ### Find Me On !
 
