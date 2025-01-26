@@ -3,28 +3,77 @@
 > Full Stack Developer.  
 > Not just another coder—I’m all about the creative side of tech, a fan of minimalism and brutalism, building systems, UIs, and websites that just stand out.
 
-## Tech I Use
+## TechStack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+```mermaid
+%%{ init: { "look": "handDrawn", "themeVariables": { "fontFamily": "Comic Sans MS" } } }%%
+graph TD
+    A[TechStack]
+
+    %% Languages
+    A --> B[Languages]
+    B --> B1[JavaScript / TypeScript]
+    B --> B2[PHP]
+    B --> B3[C#]
+
+    %% Frontend (Under JavaScript/TypeScript)
+    B1 --> C[Frontend]
+    C --> C1[Next.js]
+    C --> C2[React]
+    C --> C3[Angular]
+    C --> C4[Vue.js]
+    C --> C5[Tailwind CSS]
+    classDef frontendFramework fill:#61DAFB,stroke:#333,stroke-width:2px,color:#000;
+    class C1,C2,C3,C4,C5 frontendFramework;
+
+    %% Backend (Under JavaScript/TypeScript)
+    B1 --> D[Backend]
+    D --> D1[Node.js]
+    D --> D2[Fastify]
+    D --> D3[Nest.js]
+    D --> D4[Express.js]
+    classDef backendFramework fill:#339933,stroke:#333,stroke-width:2px,color:#FFF;
+    class D1,D2,D3,D4 backendFramework;
+
+    %% Mobile (Under JavaScript/TypeScript)
+    B1 --> E[Mobile]
+    E --> E1[Ionic]
+    E --> E2[React Native]
+    classDef mobileFramework fill:#FF7F50,stroke:#333,stroke-width:2px,color:#FFF;
+    class E1,E2 mobileFramework;
+
+    %% .NET under C#
+    B3 --> F[.NET]
+    classDef dotnetFramework fill:#512BD4,stroke:#333,stroke-width:2px,color:#FFF;
+    class F dotnetFramework;
+
+    %% Cloud Platforms
+    A --> G[Cloud Platforms]
+    G --> G1[GCP]
+    G --> G2[Azure]
+    G --> G3[AWS]
+    classDef cloudFramework fill:#232F3E,stroke:#333,stroke-width:2px,color:#FFF;
+    class G1,G2,G3 cloudFramework;
+
+    %% Databases
+    A --> H[Databases]
+    H --> H1[MongoDB]
+    H --> H2[MySQL]
+    H --> H3[PostgreSQL]
+    classDef databaseFramework fill:#FF5733,stroke:#333,stroke-width:2px,color:#FFF;
+    class H1,H2,H3 databaseFramework;
+
+    %% Tools
+    A --> I[Tools]
+    I --> I1[Git]
+    I --> I2[Shell]
+    classDef toolsFramework fill:#6495ED,stroke:#333,stroke-width:2px,color:#FFF;
+    class I1,I2 toolsFramework;
+
+    %% Title Styling
+    classDef title fill:#FFD700,stroke:#000,stroke-width:2px,color:#000,font-size:16px,font-weight:bold;
+    class A title;
+```
 
 Languages Breakdown:
 -------------------
