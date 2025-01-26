@@ -7,7 +7,7 @@
 
 ```mermaid
 %%{ init: { "look": "handDrawn", "themeVariables": { "fontFamily": "Comic Sans MS" } } }%%
-graph LR
+graph TD
     A[TechStack]:::title
 
     %% Languages
