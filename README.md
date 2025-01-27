@@ -60,8 +60,10 @@ Other        --> 3,509 lines
 <!-- LANGUAGES BREAKDOWN END -->
 
 
-### Find Me On !
+### Connect With Me!
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:md.arhamkhan09@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-arham-khan/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://arham.cc/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic)](mailto:md.arhamkhan09@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic)](https://www.linkedin.com/in/mohammed-arham-khan/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic)](https://arham.cc/)
+
+Looking for me elsewhere? Just search `arhamkhnz` — it’s my universal username (except Reddit 😉).
