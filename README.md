@@ -1,6 +1,6 @@
 # Hi, I'm Arham 👋
 
-> Full Stack Developer.  
+> Self-Taught Developer
 > Not just another coder—I’m all about the creative side of tech, a fan of minimalism and brutalism, building systems, UIs, and websites that just stand out.
 
 ### Tech I’ve Lived By
