@@ -1,7 +1,6 @@
 # Hi, I'm Arham 👋
 
-> Self-Taught Developer
-> Not just another coder—I’m all about the creative side of tech, a fan of minimalism and brutalism, building systems, UIs, and websites that just stand out.
+> Self-Taught Developer, not just another coder—I’m all about the creative side of tech. A fan of minimalism and brutalism, I build systems, UIs, and websites that just stand out.
 
 ### Tech I’ve Lived By
 
