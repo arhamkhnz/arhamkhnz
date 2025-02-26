@@ -1,46 +1,15 @@
-# Hi, I'm Arham 👋
+# Hey There <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Love-You%20Gesture.png" alt="Love-You Gesture" width="35" height="35" />
 
-> Self-Taught Developer, not just another coder—I’m all about the creative side of tech. A fan of minimalism and brutalism, I build systems, UIs, and websites that just stand out.
+I'm Arham, a **Software Developer** primarily working with 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) & its frameworks.  
 
-### Tech I’ve Lived By
+Started coding in high school for fun, got stuck with bugs, and never left.  
+I write **simple code that solves big problems**.
 
-```
-TechStack
-│
-├─ Languages
-│  ├─ JavaScript / TypeScript
-│  │  ├─ Frontend
-│  │  │  ├─ React
-│  │  │  ├─ Next.js
-│  │  │  ├─ Angular
-│  │  │  └─ Vue.js
-│  │  ├─ Backend
-│  │  │  ├─ Node.js
-│  │  │  ├─ Fastify
-│  │  │  ├─ Nest.js
-│  │  │  └─ Express.js
-│  │  ├─ Mobile
-│  │  │  ├─ Ionic
-│  │  │  └─ React Native
-│  ├─ PHP
-│  ├─ C#
-│  │  └─ .NET
-│  └─ Python
-├─ Databases
-│  ├─ MongoDB
-│  ├─ MySQL
-│  └─ PostgreSQL
-├─ Cloud Platforms
-│  ├─ GCP
-│  ├─ Azure
-│  └─ AWS
-├─ Tools
-   ├─ Git
-   └─ Shell
-```
+A fan of **Minimalism & Brutalist Design**, I build systems, UIs, and experiences that stand out, always exploring the creative side of tech.
 
-### My Github Code Stats
-> Total lines of code across all my GitHub repositories. Updates weekly.
+### My Code in Numbers  
+> The code I’ve written, the mistakes I’ve fixed, and the things I’ve built — updated weekly.
 
 <!-- LANGUAGES BREAKDOWN START -->
 ```
@@ -59,10 +28,7 @@ Other        --> 3,509 lines
 <!-- LANGUAGES BREAKDOWN END -->
 
 
-### Connect With Me!
+### Want to connect or have a project in mind?  
+Drop me a mail at [md.arhamkhan09@gmail.com](mailto:md.arhamkhan09@gmail.com). 
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic)](mailto:md.arhamkhan09@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic)](https://www.linkedin.com/in/mohammed-arham-khan/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic)](https://arham.cc/)
-
-Looking for me elsewhere? Just search `arhamkhnz` — it’s my universal username (except Reddit 😉).
+Want to connect elsewhere? Just look up `arhamkhnz`—that’s me everywhere (except Reddit 😉).
