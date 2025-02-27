@@ -2,6 +2,7 @@
 
 I'm Arham, a **Software Developer** primarily working with 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) & its frameworks.  
+I just don’t stick to these — I explore other technologies too, but these are my go-to.
 
 Started coding in high school for fun, got stuck with bugs, and never left.  
 I write **simple code that solves big problems**.
