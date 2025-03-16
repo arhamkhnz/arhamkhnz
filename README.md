@@ -16,15 +16,15 @@ A fan of **Minimalism & Brutalist Design**, I build systems, UIs, and experience
 ```
 [ LANGUAGES BREAKDOWN ]
 
-JavaScript   --> 89,104 lines
-TypeScript   --> 79,294 lines
+JavaScript   --> 89,105 lines
+TypeScript   --> 79,429 lines
 JSX          --> 20,247 lines
 Vue.js       --> 13,154 lines
 PHP          --> 5,248 lines
 C#           --> 15,066 lines
 Other        --> 3,748 lines
 
-[ TOTAL LINES OF CODE: 225,861 ]
+[ TOTAL LINES OF CODE: 225,997 ]
 ```
 <!-- LANGUAGES BREAKDOWN END -->
 
