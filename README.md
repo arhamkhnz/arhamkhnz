@@ -2,12 +2,12 @@
 
 I'm Arham, a **Software Developer** primarily working with 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) & its frameworks.  
-I just don’t stick to these — I explore other technologies too, but these are my go-to.
+I don’t just stick to it though. I explore other technologies too, but JS is my go-to.
 
 Started coding in high school for fun, got stuck with bugs, and never left.  
-I write **simple code that solves big problems**.
+I focus on writing **simple code to solve big problems**.
 
-A fan of **Minimalism & Brutalist Design**, I build systems, UIs, and experiences that stand out, always exploring the creative side of tech.
+A fan of **Minimalism & Brutalist Design**, I build systems, UIs, and interactions, always exploring the creative side of tech.
 
 ### My Code in Numbers  
 > The code I’ve written, the mistakes I’ve fixed, and the things I’ve built — updated weekly.
