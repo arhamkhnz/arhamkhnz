@@ -1,16 +1,13 @@
 # Hey There <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Love-You%20Gesture.png" alt="Love-You Gesture" width="35" height="35" />
 
-I'm Arham, a **Software Developer** primarily working with 
+I'm Arham, a **Software Developer** mainly working with 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) & its frameworks.  
-I don’t just stick to it though. I explore other technologies too, but JS is my go-to.
+JavaScript is my go-to, but I also explore other technologies when needed.
 
-Started coding in high school for fun, got stuck with bugs, and never left.  
-I focus on writing **simple code to solve big problems**.
+With a thing for design, inspired by clean and functional ideas, I build systems, UIs, and interactions while exploring the creative side of tech.
 
-A fan of **Minimalism & Brutalist Design**, I build systems, UIs, and interactions, always exploring the creative side of tech.
-
-### My Code in Numbers  
-> The code I’ve written, the mistakes I’ve fixed, and the things I’ve built — updated weekly.
+### Code in Numbers  
+> Lines written, bugs fixed, projects built. Auto-updated weekly.
 
 <!-- LANGUAGES BREAKDOWN START -->
 ```
@@ -29,7 +26,7 @@ Other        --> 8,469 lines
 <!-- LANGUAGES BREAKDOWN END -->
 
 
-### Want to connect or have a project in mind?  
-Drop me a mail at [md.arhamkhan09@gmail.com](mailto:md.arhamkhan09@gmail.com). 
+### Want to connect?  
+Drop me a mail at [md.arhamkhan09@gmail.com](mailto:md.arhamkhan09@gmail.com).  
 
-Want to connect elsewhere? Just look up `arhamkhnz`—that’s me everywhere (except Reddit 😉).
+Elsewhere, I’m `arhamkhnz` pretty much everywhere.  
