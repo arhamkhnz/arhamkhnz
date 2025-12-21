@@ -13,15 +13,15 @@ With a thing for design, inspired by clean and functional ideas, I build systems
 ```
 [ LANGUAGES BREAKDOWN ]
 
-JavaScript   --> 86,682 lines
-TypeScript   --> 98,224 lines
+JavaScript   --> 86,760 lines
+TypeScript   --> 259,034 lines
 JSX          --> 20,562 lines
 Vue.js       --> 21,091 lines
 PHP          --> 5,248 lines
 C#           --> 15,066 lines
-Other        --> 19,730 lines
+Other        --> 22,101 lines
 
-[ TOTAL LINES OF CODE: 266,603 ]
+[ TOTAL LINES OF CODE: 429,862 ]
 ```
 <!-- LANGUAGES BREAKDOWN END -->
 
