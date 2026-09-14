@@ -18,7 +18,6 @@ TypeScript   --> 386,614 lines
 JSX          --> 20,576 lines
 Vue.js       --> 7,937 lines
 PHP          --> 5,248 lines
-C#           --> 0 lines
 Other        --> 10,046 lines
 
 [ TOTAL LINES OF CODE: 831,899 ]
